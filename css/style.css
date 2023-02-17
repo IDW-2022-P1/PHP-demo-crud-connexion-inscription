@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+p.error{
+    color: red;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+main{
+    display:flex ;
+    justify-content: center;
+}
+form{
+    width: 40%;
+}
+form div:last-child{
+    display: flex;
+    justify-content: center;
+}
